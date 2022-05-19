@@ -1,1 +1,1 @@
-My first readme. yay
+My first readme.
